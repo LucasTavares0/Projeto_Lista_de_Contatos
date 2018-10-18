@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\AgendaDeContatos.exe.config
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\AgendaDeContatos.exe
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\AgendaDeContatos.pdb
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.Form1.resources
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.Properties.Resources.resources
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.exe
+C:\Users\Administrator\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.pdb
